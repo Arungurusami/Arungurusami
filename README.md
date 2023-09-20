@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Arun
-- 👀 I’m interested in machine learning
+- 👀 I’m a computer science student.
 - 🌱 I’m currently learning front end and backend developer
 - 📫 How to reach me ...
 
