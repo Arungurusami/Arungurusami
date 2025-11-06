@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Arun
-- 👀 I’m a computer science student.
-- 🌱 I’m currently learning front end and backend developer
+- 👋 Hi, I’m Arun
+- 👀 I’m a B.Sc graduate.
+- 🌱 Frontend and Backend developer
+- Currently Pursuing Masters of Computer Applications in VHNSN College
 - 📫 How to reach me ...
 
 <!---
